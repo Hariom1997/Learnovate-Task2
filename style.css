@@ -1,0 +1,55 @@
+.main{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+.classmain{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+.classmain img{
+    height: 160px;
+    margin-bottom: 10px;
+}
+.main img{
+    height: 150px;
+}
+.prodView{
+    margin-top: 100px;
+}
+.prodInfo{
+    margin-top: 30px;
+
+}
+.classView img{
+    margin-top: 50px;
+    width: 350px;
+    height:300px;
+}
+.hightlight{
+    width: 100%;
+    padding: 20px;
+}
+.hightlight img{
+    height: 150px;
+}
+.prod2{
+    width: 70%;
+}
+
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #000;
+    color: #fff;
+
+}
+.prodInfo h2{
+    text-transform: uppercase;
+}
